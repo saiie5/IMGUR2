@@ -1,0 +1,11 @@
+.newpost{
+    margin: auto;
+    background-color: cadetblue;
+    margin-top: 100px;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.newpost input{
+  margin: auto;
+}

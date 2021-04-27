@@ -1,0 +1,11 @@
+.photos-container{
+    margin-top: 50px
+}
+.photos{
+    display: inline-block;
+}
+.image{
+    height: 200px;
+    width:200px;
+    margin: 10px;
+}

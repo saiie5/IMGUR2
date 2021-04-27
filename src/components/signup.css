@@ -1,0 +1,16 @@
+.signup{
+    margin: auto;
+    background-color: grey;
+    border-radius: 5px;
+    margin-top: 50px;
+    width: 400px;
+    height: 450px;
+}
+.signup input{
+    border-radius: 5px;
+}
+.button{
+    background-color: rgba(68, 157, 240, 0.918);
+    width: 200px;
+    height: 40px;
+}
